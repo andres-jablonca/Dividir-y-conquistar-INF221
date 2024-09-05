@@ -1,0 +1,2 @@
+Aclarar que el código proporcionado para el algoritmo de Strassen no está completamente implementado por mi, ya que tuve que guiarme de otro código, adjunto referecencia: 
+https://github.com/psakoglou/Strassen-Algorithm-Simulation-and-Asymptotic-Efficiency-CPP/tree/master, además en aquel repositorio hay información y testeos del algoritmo
