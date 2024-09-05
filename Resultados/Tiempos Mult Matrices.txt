@@ -1,0 +1,39 @@
+Para matrices de tamano 16 x 16:
+Iterativo cubico tradicional: 3.19e-05 segundos 
+Iterativo cubico trasponiendo: 3.39e-05 segundos
+Strassen: 0.0054096 segundos
+
+Para matrices de tamano 32 x 32:
+Iterativo cubico tradicional: 0.000194 segundos 
+Iterativo cubico trasponiendo: 0.000286 segundos
+Strassen: 0.047957 segundos
+
+Para matrices de tamano 64 x 64:
+Iterativo cubico tradicional: 0.0018415 segundos 
+Iterativo cubico trasponiendo: 0.0023991 segundos
+Strassen: 0.309284 segundos
+
+Para matrices de tamano 128 x 128:
+Iterativo cubico tradicional: 0.013896 segundos
+Iterativo cubico trasponiendo: 0.0167554 segundos
+Strassen: 3.68679 segundos
+
+Para matrices de tamano 256 x 256:
+Iterativo cubico tradicional: 0.137243 segundos
+Iterativo cubico trasponiendo: 0.121862 segundos
+Strassen: 14.053 segundos
+
+Para matrices de tamano 512 x 512: 
+Iterativo cubico tradicional: 0.886347 segundos
+Iterativo cubico trasponiendo: 0.856773 segundos
+Strassen: 103.163 segundos
+
+Para matrices de tamano 1024 x 1024: 
+Iterativo cubico tradicional: 9.97811 segundos
+Iterativo cubico trasponiendo: 7.23481 segundos
+Strassen: 858.302 segundos
+
+Para tamano 2048:
+Iterativo cubico tradicional: 95.5472 segundos
+Iterativo cubico trasponiendo: 51.822 segundos
+Strassen: 5807.88 segundos

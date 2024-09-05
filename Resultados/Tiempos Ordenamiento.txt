@@ -1,0 +1,288 @@
+Vectores desordenados:
+Para tamano 1000:
+
+SELECTION SORT: 0.0019558 segundos
+MERGE SORT: 0.0016197 segundos    
+QUICK SORT: 0.0001238 segundos
+SORT ESTANDAR: 0.0001849 segundos
+
+Para tamano 10000:
+
+SELECTION SORT: 0.183026 segundos
+MERGE SORT: 0.0170541 segundos
+QUICK SORT: 0.0019433 segundos
+SORT ESTANDAR: 0.0025285 segundos
+
+Para tamano 30000:
+
+SELECTION SORT: 1.57303 segundos
+MERGE SORT: 0.0513143 segundos
+QUICK SORT: 0.0064005 segundos
+SORT ESTANDAR: 0.0059552 segundos
+
+Para tamano 100000:
+
+SELECTION SORT: 22.9799 segundos
+MERGE SORT: 0.171458 segundos
+QUICK SORT: 0.0238349 segundos
+SORT ESTANDAR: 0.0459745 segundos
+
+Para tamano 500000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 0.847504 segundos
+QUICK SORT: 0.138361 segundos
+SORT ESTANDAR: 0.116743 segundos
+
+Para tamano 1000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 1.67735 segundos
+QUICK SORT: 0.337145 segundos
+SORT ESTANDAR: 0.243681 segundos
+
+Para tamano 3000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 8.14977 segundos
+QUICK SORT: 1.83098 segundos
+SORT ESTANDAR: 0.724959 segundos
+
+[EXTRA] Para tamaño 10000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 19.9526 segundos
+QUICK SORT: 17.7847 segundos
+SORT ESTANDAR: 4.11329 segundos
+
+
+Vectores ordenados:
+Para tamano 1000:
+
+SELECTION SORT: 0.0018517 segundos
+MERGE SORT: 0.0017283 segundos
+QUICK SORT: 0.0048257 segundos
+SORT ESTANDAR: 0.0001071 segundos
+
+Para tamano 10000:
+
+SELECTION SORT: 0.172815 segundos
+MERGE SORT: 0.0162135 segundos
+QUICK SORT: 0.406938 segundos
+SORT ESTANDAR: 0.0010432 segundos
+
+Para tamano 30000:
+
+SELECTION SORT: 1.51565 segundos
+MERGE SORT: 0.0466841 segundos
+QUICK SORT: 3.85511 segundos
+SORT ESTANDAR: 0.0039195 segundos
+
+Para tamano 100000:
+
+SELECTION SORT: 26.8255 segundos
+MERGE SORT: 0.292659 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.0115432 segundos
+
+Para tamano 500000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 1.34112 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.133364 segundos
+
+Para tamano 1000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 2.245 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.232902 segundos
+
+Para tamano 3000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 7.11698 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.448353 segundos
+
+[EXTRA] Para tamaño 10000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 18.4757 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 1.67855 segundos
+
+
+Vectores semiordenados:
+Para tamano 1000:
+
+SELECTION SORT: 0.0027955 segundos
+MERGE SORT: 0.0017637 segundos
+QUICK SORT: 0.001481 segundos
+SORT ESTANDAR: 0.0002183 segundos
+
+Para tamano 10000:
+
+SELECTION SORT: 0.806023 segundos
+MERGE SORT: 0.28334 segundos
+QUICK SORT: 0.653598 segundos
+SORT ESTANDAR: 0.0017545 segundos
+
+Para tamano 30000:
+
+SELECTION SORT: 1.61998 segundos
+MERGE SORT: 0.0499267 segundos
+QUICK SORT: 1.43884 segundos
+SORT ESTANDAR: 0.0077169 segundos
+
+Para tamano 100000:
+
+SELECTION SORT: 17.3334 segundos
+MERGE SORT: 0.167054 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.0197462 segundos
+
+Para tamano 500000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 2.29272 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.0990581 segundos
+
+Para tamano 1000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 1.58933 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.184777 segundos
+
+Para tamano 3000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 7.87039 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.617065 segundos
+
+[EXTRA] Para tamaño 10000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 19.3087 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 2.19182 segundos
+
+
+Vectores ordenados inversamente:
+Para tamano 1000:
+
+SELECTION SORT: 0.0027792 segundos
+MERGE SORT: 0.0015912 segundos
+QUICK SORT: 0.0032399 segundos
+SORT ESTANDAR: 0.0001033 segundos
+
+Para tamano 10000:
+
+SELECTION SORT: 0.171298 segundos
+MERGE SORT: 0.0178355 segundos
+QUICK SORT: 0.264558 segundos
+SORT ESTANDAR: 0.000931 segundos
+
+Para tamano 30000:
+
+SELECTION SORT: 1.481 segundos
+MERGE SORT: 0.0470735 segundos
+QUICK SORT: 2.36606 segundos
+SORT ESTANDAR: 0.0025626 segundos
+
+Para tamano 100000:
+
+SELECTION SORT: 16.7095 segundos
+MERGE SORT: 0.156579 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.0091896 segundos
+
+Para tamano 500000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 0.760356 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.0519026 segundos
+
+Para tamano 1000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 1.75192 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.172631 segundos
+
+Para tamano 3000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 9.80108 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.447436 segundos
+
+[EXTRA] Para tamaño 10000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 18.5879 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 1.27293 segundos
+
+
+Vectores con todos sus elementos iguales:
+Para tamano 1000:
+
+SELECTION SORT: 0.0032231 segundos
+MERGE SORT: 0.0029153 segundos
+QUICK SORT: 0.0072869 segundos
+SORT ESTANDAR: 0.0002249 segundos
+
+Para tamano 10000:
+
+SELECTION SORT: 0.229812 segundos
+MERGE SORT: 0.0194301 segundos
+QUICK SORT: 0.566011 segundos
+SORT ESTANDAR: 0.0015793 segundos
+
+Para tamano 30000:
+
+SELECTION SORT: 2.38584 segundos
+MERGE SORT: 0.0714697 segundos
+QUICK SORT: 6.45591 segundos
+SORT ESTANDAR: 0.0085084 segundos
+
+Para tamano 100000:
+
+SELECTION SORT: 18.4572 segundos
+MERGE SORT: 0.167991 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.0179217 segundos
+
+Para tamano 500000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 0.850812 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.09183 segundos
+
+Para tamano 1000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 1.55761 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.184407 segundos
+
+Para tamano 3000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 9.03228 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 0.590812 segundos
+
+[EXTRA] Para tamaño 10000000:
+
+SELECTION SORT: Ya tarda demasiado como para medir
+MERGE SORT: 25.6387 segundos
+QUICK SORT: No soporta
+SORT ESTANDAR: 3.71365 segundos
